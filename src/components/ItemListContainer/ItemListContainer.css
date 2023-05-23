@@ -1,0 +1,15 @@
+.ItemListContainer{
+    font-weight: 300;
+    font-size: 1rem;
+    text-transform: uppercase;
+    border: 2px solid black !important;
+    height: min-content  !important;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+.cover-img{
+    border-radius: 40px;
+
+}
