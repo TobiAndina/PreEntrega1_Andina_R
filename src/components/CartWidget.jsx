@@ -1,9 +1,10 @@
 import React from 'react';
+import { AiOutlineShoppingCart } from "react-icons/ai";
 
 const CartWidget = () => {
     return (
         <div className='CartWidget-container'>
-            <i className="bi bi-cart"></i>
+            <AiOutlineShoppingCart />
             <i className="bi bi-2-circle"></i>  
         </div>
     )

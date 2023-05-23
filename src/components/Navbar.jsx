@@ -21,6 +21,7 @@ function Navbar() {
                     <a onClick={handleClick} href="">Hybrids</a>
                     <a onClick={handleClick} href="">Sobre Nosotros</a>
                     <a onClick={handleClick} href="">Contacto</a>
+                    
 
                 </div>
                 <a onClick={handleClick} href="#h"><CartWidget/></a>
